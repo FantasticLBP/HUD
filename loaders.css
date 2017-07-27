@@ -71,7 +71,7 @@ p {
 }
 
 .ball-pulse>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -132,7 +132,7 @@ p {
 }
 
 .ball-pulse-sync>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -167,7 +167,7 @@ p {
 }
 
 .ball-scale>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -216,7 +216,7 @@ p {
 }
 
 .ball-rotate>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -233,7 +233,7 @@ p {
 
 .ball-rotate>div:before,
 .ball-rotate>div:after {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -269,14 +269,14 @@ p {
 }
 
 .ball-clip-rotate>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
 	margin: 2px;
 	-webkit-animation-fill-mode: both;
 	animation-fill-mode: both;
-	border: 2px solid #fff;
+	border: 2px solid #d71e5d;
 	border-bottom-color: transparent;
 	height: 25px;
 	width: 25px;
@@ -329,7 +329,7 @@ p {
 }
 
 .ball-clip-rotate-pulse>div:first-child {
-	background: #fff;
+	background: #d71e5d;
 	height: 16px;
 	width: 16px;
 	top: 9px;
@@ -340,12 +340,12 @@ p {
 
 .ball-clip-rotate-pulse>div:last-child {
 	position: absolute;
-	border: 2px solid #fff;
+	border: 2px solid #d71e5d;
 	width: 30px;
 	height: 30px;
 	background: transparent;
 	border: 2px solid;
-	border-color: #fff transparent #fff transparent;
+	border-color: #d71e5d transparent #d71e5d transparent;
 	-webkit-animation: rotate 1s 0s cubic-bezier(.09, .57, .49, .9) infinite;
 	animation: rotate 1s 0s cubic-bezier(.09, .57, .49, .9) infinite;
 	-webkit-animation-duration: 1s;
@@ -377,7 +377,7 @@ p {
 	position: absolute;
 	left: 0px;
 	top: 0px;
-	border: 2px solid #fff;
+	border: 2px solid #d71e5d;
 	border-bottom-color: transparent;
 	border-top-color: transparent;
 	border-radius: 100%;
@@ -395,7 +395,7 @@ p {
 	height: 15px;
 	-webkit-animation-duration: 0.5s;
 	animation-duration: 0.5s;
-	border-color: #fff transparent #fff transparent;
+	border-color: #d71e5d transparent #d71e5d transparent;
 	-webkit-animation-direction: reverse;
 	animation-direction: reverse;
 }
@@ -438,7 +438,7 @@ p {
 	height: 50px;
 	width: 50px;
 	border-radius: 100%;
-	border: 2px solid #fff;
+	border: 2px solid #d71e5d;
 	-webkit-animation: ball-scale-ripple 1s 0s infinite cubic-bezier(.21, .53, .56, .8);
 	animation: ball-scale-ripple 1s 0s infinite cubic-bezier(.21, .53, .56, .8);
 }
@@ -511,7 +511,7 @@ p {
 	width: 50px;
 	height: 50px;
 	border-radius: 100%;
-	border: 2px solid #fff;
+	border: 2px solid #d71e5d;
 	-webkit-animation: ball-scale-ripple-multiple 1.25s 0s infinite cubic-bezier(.21, .53, .56, .8);
 	animation: ball-scale-ripple-multiple 1.25s 0s infinite cubic-bezier(.21, .53, .56, .8);
 }
@@ -543,7 +543,7 @@ p {
 }
 
 .ball-beat>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -610,7 +610,7 @@ p {
 }
 
 .ball-scale-multiple>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -771,7 +771,7 @@ p {
 	width: 10px;
 	height: 10px;
 	border-radius: 100%;
-	border: 1px solid #fff;
+	border: 1px solid #d71e5d;
 }
 
 .ball-triangle-path>div:nth-of-type(1) {
@@ -888,7 +888,7 @@ p {
 }
 
 .ball-pulse-rise>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -1002,7 +1002,7 @@ p {
 }
 
 .ball-grid-beat>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -1121,7 +1121,7 @@ p {
 }
 
 .ball-grid-pulse>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -1391,7 +1391,7 @@ p {
 }
 
 .ball-zig-zag>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -1530,7 +1530,7 @@ p {
 }
 
 .ball-zig-zag-deflect>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -1614,7 +1614,7 @@ p {
 }
 
 .line-scale>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 4px;
 	height: 35px;
 	border-radius: 2px;
@@ -1683,7 +1683,7 @@ p {
 }
 
 .line-scale-party>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 4px;
 	height: 35px;
 	border-radius: 2px;
@@ -1730,7 +1730,7 @@ p {
 }
 
 .line-scale-pulse-out>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 4px;
 	height: 35px;
 	border-radius: 2px;
@@ -1785,7 +1785,7 @@ p {
 }
 
 .line-scale-pulse-out-rapid>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 4px;
 	height: 35px;
 	border-radius: 2px;
@@ -1906,7 +1906,7 @@ p {
 }
 
 .line-spin-fade-loader>div {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 4px;
 	height: 35px;
 	border-radius: 2px;
@@ -1968,7 +1968,7 @@ p {
 	height: 0;
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
-	border-bottom: 20px solid #fff;
+	border-bottom: 20px solid #d71e5d;
 	-webkit-animation: triangle-skew-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
 	animation: triangle-skew-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
 }
@@ -2016,7 +2016,7 @@ p {
 	animation-fill-mode: both;
 	width: 50px;
 	height: 50px;
-	background: #fff;
+	background: #d71e5d;
 	border: 1px solid red;
 	-webkit-animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
 	animation: square-spin 3s 0s cubic-bezier(.09, .57, .49, .9) infinite;
@@ -2130,9 +2130,9 @@ p {
 	width: 0px;
 	height: 0px;
 	border-right: 25px solid transparent;
-	border-top: 25px solid #fff;
-	border-left: 25px solid #fff;
-	border-bottom: 25px solid #fff;
+	border-top: 25px solid #d71e5d;
+	border-left: 25px solid #d71e5d;
+	border-bottom: 25px solid #d71e5d;
 	border-radius: 25px;
 	-webkit-animation: rotate_pacman_half_up 0.5s 0s infinite;
 	animation: rotate_pacman_half_up 0.5s 0s infinite;
@@ -2142,9 +2142,9 @@ p {
 	width: 0px;
 	height: 0px;
 	border-right: 25px solid transparent;
-	border-top: 25px solid #fff;
-	border-left: 25px solid #fff;
-	border-bottom: 25px solid #fff;
+	border-top: 25px solid #d71e5d;
+	border-left: 25px solid #d71e5d;
+	border-bottom: 25px solid #d71e5d;
 	border-radius: 25px;
 	-webkit-animation: rotate_pacman_half_down 0.5s 0s infinite;
 	animation: rotate_pacman_half_down 0.5s 0s infinite;
@@ -2155,7 +2155,7 @@ p {
 .pacman>div:nth-child(4),
 .pacman>div:nth-child(5),
 .pacman>div:nth-child(6) {
-	background-color: #fff;
+	background-color: #d71e5d;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
@@ -2223,7 +2223,7 @@ p {
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-color: #fff;
+	background-color: #d71e5d;
 	-webkit-animation: cube-transition 1.6s 0s infinite ease-in-out;
 	animation: cube-transition 1.6s 0s infinite ease-in-out;
 }
@@ -2276,8 +2276,8 @@ p {
 	border-radius: 100%;
 	-webkit-animation: spin-rotate 0.6s 0s infinite linear;
 	animation: spin-rotate 0.6s 0s infinite linear;
-	background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #fff 30%, #fff 100%);
-	background-image: linear-gradient(transparent 0%, transparent 70%, #fff 30%, #fff 100%);
+	background-image: -webkit-linear-gradient(transparent 0%, transparent 70%, #d71e5d 30%, #d71e5d 100%);
+	background-image: linear-gradient(transparent 0%, transparent 70%, #d71e5d 30%, #d71e5d 100%);
 	width: 100%;
 	height: 100%;
 }
