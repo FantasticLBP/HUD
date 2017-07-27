@@ -5,7 +5,6 @@ This animation is written by css.
 
 ### Demo
 
-![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-25%2021_38_19.gif "loading animation")
 
 
 ```
@@ -17,9 +16,87 @@ This animation is written by css.
 
 then in your js code :
 
+
+
 ```
 //加载状态
-loadingWithMessage("正在请求数据");
+loadingWithMessage("正在请求数据",1);
 //结束动画
 dismiss();
 ```
+![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-27%2021_28_28.gif "loading animation1")
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",2);
+//结束动画
+dismiss();
+```
+![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-27%2021_30_13.gif "loading animation2")
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",3);
+//结束动画
+dismiss();
+```
+![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-27%2021_31_50.gif "loading animation3")
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",4);
+//结束动画
+dismiss();
+```
+![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-27%2021_33_25.gif "loading animation4")
+
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",5);
+//结束动画
+dismiss();
+```
+![效果图](https://raw.githubusercontent.com/FantasticLBP/HUD/master/2017-07-27%2021_34_08.gif "loading animation5")
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",6);
+//结束动画
+dismiss();
+```
+![效果图](https://github.com/FantasticLBP/HUD/raw/master/2017-07-27%2021_34_35.gif "loading animation6")
+
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",7);
+//结束动画
+dismiss();
+```
+![效果图](https://github.com/FantasticLBP/HUD/blob/master/2017-07-27%2021_35_12.gif?raw=true "loading animation7")
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",8);
+//结束动画
+dismiss();
+```
+![效果图](https://github.com/FantasticLBP/HUD/blob/master/2017-07-27%2021_35_40.gif?raw=true "loading animation8")
+
+
+
+```
+//加载状态
+loadingWithMessage("正在请求数据",9);
+//结束动画
+dismiss();
+```
+![效果图](https://github.com/FantasticLBP/HUD/blob/master/2017-07-27%2021_36_02.gif?raw=true "loading animation9")
